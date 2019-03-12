@@ -28,7 +28,7 @@ Trying to make a distributed call act like
 a local call always ends in tears
 ```
 * Industry slowly started to reject procedural, layered concepts inherent in SOAP and WS-* standards
-* Then the concept of representation state transfer (REST) was introduced
+* Then the concept of [representation state transfer (REST)](https://github.com/akhilputhiry/lti-sessions/blob/master/micro-services/rest.md) was introduced
 * At the same time, the industry was also moving to reject another legacy of the Java Platform,
     * Enterprise Edition (JEE) and 
     * SOA world: the large farm of application servers
