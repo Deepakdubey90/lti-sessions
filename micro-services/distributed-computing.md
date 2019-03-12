@@ -12,7 +12,7 @@
 * Lack of global lock
 * Independent failures of components
 
-## Examples
+## Examples for distributed systems / programs
 
 * Multiplayer online games (PUBG)
 * Peer to peer apps (torrents)
