@@ -4,3 +4,11 @@
 * Rather than layer procedural call semantics over HTTP
 * REST instead treats the HTTP verbs in the way they were specified in terms of create, read, delete, and update semantics
 
+```
+POST   => create
+GET    => read
+PUT    => update
+PATCH  => partial update
+DELETE => delete
+```
+
