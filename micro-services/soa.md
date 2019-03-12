@@ -24,5 +24,6 @@
 * This led to the observation
 
 ```
-Trying to make a distributed call act like a local call always ends in tears
+Trying to make a distributed call act like 
+a local call always ends in tears
 ```
