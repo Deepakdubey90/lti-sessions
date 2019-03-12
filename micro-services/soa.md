@@ -35,4 +35,8 @@ a local call always ends in tears
 * Developers preferred were smaller, light weight application platforms
 * The complexity of JEE was being shunned in favor of the supposed simplicity of the Spring platform as techniques like 
     * Inversion of Control and 
-    * Dependency Injection became common.
+    * Dependency Injection became common
+* This led to the other observation
+```
+Whenever possible, your programs and their runtime environments should be entirely self-contained.
+```
