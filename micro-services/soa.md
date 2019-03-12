@@ -27,6 +27,5 @@
 Trying to make a distributed call act like 
 a local call always ends in tears
 ```
-* Industry slowly started to reject procedural, layered concepts inherent in SOAP and WS-* standatds
-
-Then representation state transfer (REST) came into picture
+* Industry slowly started to reject procedural, layered concepts inherent in SOAP and WS-* standards
+* Then the concept of representation state transfer (REST) was introduced
