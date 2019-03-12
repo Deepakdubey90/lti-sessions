@@ -12,10 +12,10 @@
 * Could avoid processing and memory scalability issues that affected systems of that time
 * In 1990s the CPUs where of 16 bit and 64K address space
 
-## What happened 
+## What happened later
 
 * As the processors and address spaces evolved, this issue became less important
-* From large implementations of RPCs taught an important observation of distributed computing
+* Large implementations of RPCs taught an important observation to the architects regarding distributed computing
 
 ```
 Just because something can be distributed 
