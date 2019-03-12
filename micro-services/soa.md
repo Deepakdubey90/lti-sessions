@@ -40,3 +40,5 @@ a local call always ends in tears
 ```
 Whenever possible, your programs and their runtime environments should be entirely self-contained.
 ```
+
+These observations where later put together to form micro services
