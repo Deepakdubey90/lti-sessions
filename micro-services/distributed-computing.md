@@ -3,7 +3,7 @@
 ## Definition
 
 * System whose components are located in different networked computers
-* Which communicate and co-ordinate their actions by passing messages to one another
+* Which communicate and co-ordinate their actions by `passing messages` to one another
 * The components interact with one another to achieve a common goal 
 
 ## Characteristics
@@ -16,3 +16,9 @@
 
 * Multiplayer online games (PUBG)
 * Peer to peer apps (torrents)
+
+## Different message passing mechanisms
+
+* HTTP
+* RPC-like connectors
+* Message queues
