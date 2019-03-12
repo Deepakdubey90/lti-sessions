@@ -14,11 +14,11 @@
 
 ## Examples for distributed systems / programs
 
-* Multiplayer online games (PUBG)
-* Peer to peer apps (torrents)
+* Multiplayer online games (eg: PUBG)
+* Peer to peer apps (eg: torrents)
 
 ## Different message passing mechanisms
 
-* HTTP
-* RPC-like connectors
+* Request response protocols (eg: HTTP)
+* RPC / RMI
 * Message queues
