@@ -33,5 +33,6 @@ a local call always ends in tears
     * Enterprise Edition (JEE) and 
     * SOA world: the large farm of application servers
 * Developers preferred were smaller, light weight application platforms
-* The complexity of JEE was being shunned in favor of the supposed simplicity of the Spring platform as techniques like           * Inversion of Control and 
+* The complexity of JEE was being shunned in favor of the supposed simplicity of the Spring platform as techniques like 
+    * Inversion of Control and 
     * Dependency Injection became common.
