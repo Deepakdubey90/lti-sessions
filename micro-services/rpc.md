@@ -21,4 +21,5 @@
 Just because something can be distributed 
 doen't mean it should be distributed
 ```
-
+* Poor choices about distributing the methods across machines started impacting system performance
+* Networking overhead vastly outweighted the advantages of distibution (Think about the network speed in 1990s)
