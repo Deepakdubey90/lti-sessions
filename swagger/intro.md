@@ -17,3 +17,9 @@ walk or behave in a very confident and self important way
 
 * [Swagger UI](https://petstore.swagger.io/)
 * [Swagger Editor](https://editor.swagger.io/)
+
+# Implementations
+
+* Flask - [Flasgger](https://github.com/rochacbruno/flasgger)
+* Django - [Django REST Swagger](https://github.com/marcgibbons/django-rest-swagger)
+* Java - [Swagger Core](https://github.com/swagger-api/swagger-core/wiki/Swagger-2.X---Getting-started)
