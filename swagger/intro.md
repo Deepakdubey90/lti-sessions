@@ -11,6 +11,9 @@ walk or behave in a very confident and self important way
     * build
     * document
     * cosume REST APIs
+* Who is responsible to standardising things? Open API initiative
 
 # Seeing is believing
-Lets have a look @ [petstore](https://petstore.swagger.io/)
+
+* [Swagger UI](https://petstore.swagger.io/)
+* [Swagger Editor](https://editor.swagger.io/)
