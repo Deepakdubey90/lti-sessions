@@ -6,3 +6,5 @@
 * In 2005 they broke up (Linux kernel development community & Bitkeeper company)
 * This led to the invention of git by the Linux kernel development community
 
+## Snapshots, not differences
+
