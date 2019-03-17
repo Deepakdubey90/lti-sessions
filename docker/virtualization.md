@@ -14,4 +14,6 @@
     * Relies on software to simulate the hardware functionality - hypervisor
     * Two types of hypervisors - bare metal and hosted
 * Para virtual machine
-8 OS level virtualization
+    * Allows to have an interface that can differ from underlying hardware
+    * OS should be compiled specifically from the hypervisor
+* OS level virtualization
