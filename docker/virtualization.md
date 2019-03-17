@@ -9,3 +9,9 @@
 ## Why
 
 ## Popular approaches
+
+* Virtual machine model
+    * Relies on software to simulate the hardware functionality - hypervisor
+    * Two types of hypervisors - bare metal and hosted
+* Para virtual machine
+8 OS level virtualization
