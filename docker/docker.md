@@ -7,7 +7,7 @@
 
 ## Architecture
 
-![Docker architecture](https://raw.githubusercontent.com/akhilputhiry/lti-sessions/master/docker/images/architecture.svg)
+![Docker architecture](https://docs.docker.com/engine/images/architecture.svg)
 
 ## Underlying technology
 
