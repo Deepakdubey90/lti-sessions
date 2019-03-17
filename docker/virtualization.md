@@ -17,3 +17,4 @@
     * Allows to have an interface that can differ from underlying hardware
     * OS should be compiled specifically from the hypervisor
 * OS level virtualization
+    * Operating system is modified to operate as multiple independent systems
