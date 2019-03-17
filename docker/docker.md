@@ -1,5 +1,12 @@
 # Docker
 
+## What
+
+* Tool designed to create, deploy and run applications using containers
+* Docker engine consists of a docker daemon, REST API and docker CLI
+
+## Architecture
+
 ## Underlying technology
 
 * [LXC](https://linuxcontainers.org/)
