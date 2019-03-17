@@ -3,7 +3,7 @@
 ## What
 
 * LXC is an OS level virtualization technique for tunning multiple isolated linux systems
-* LXC was the default execution environment for docker in the early releases, now its been replaced with runc
+* LXC was the default execution environment for docker in the early releases, now its been replaced with `libcontainer`
 
 ## How
 
