@@ -1,9 +1,11 @@
-# LXC - Linux containers
+# Open Container Initiative - OCI
 
-## What
+## Why
 
-* LXC is an OS level virtualization technique for tunning multiple isolated linux systems
-* LXC was the default execution environment for docker in the early releases, now its been replaced with [runc](https://github.com/opencontainers/runc/tree/master/libcontainer) and [containerd](https://containerd.io/)
+* There are many technologies out there eg: LXC, CRI-O, Containerd, runc etc
+* These systems were not interoperable or standardised
+* In 2015 Docker, Google and CoreOS created open container initiative
+* The specification can be found [here](https://github.com/opencontainers/runtime-spec)
 
 ## How
 
