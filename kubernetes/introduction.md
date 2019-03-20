@@ -1,4 +1,4 @@
-# What
+# Kubernetes (K8s)
 
 * Portable extensible open source platform for managing containerized workloads
 * Container orchestration system for automating application deployment, scaling and management
