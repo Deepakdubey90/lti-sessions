@@ -9,6 +9,8 @@
 
 # Components
 
+Various binaries required to deliver a functioning K8s cluster
+
 ## Master components
 * Kube API server
 * etcd
@@ -19,4 +21,4 @@
 ## Worker components
 * Kubelet
 * Kube proxy
-* Container runtime
+* Container runtime (eg: docker)
