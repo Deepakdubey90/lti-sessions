@@ -19,3 +19,9 @@
 
 * Agent that runs on each node
 * Kubelet takes set of PodSpecs and ensures that the containers described in the PodSpec are running and healthy
+
+
+# Kube Proxy
+
+* Runs on each node
+* Responsible for maintaining network rules and performing connection forwarding
