@@ -1,3 +1,10 @@
 # K8s Architecture
 
 ![K8s architecture](https://raw.githubusercontent.com/akhilputhiry/lti-sessions/master/kubernetes/k8-architecture.png)
+
+# Controller Manager
+
+* In robotics and automation a control loop is a non terminating loop that regulates the state of the system
+* K8 controller watches the state of the cluster via api server
+* And makes changes attempting to move the current status towards the desired state
+* Examples replication controller, endpoints controller, namespace controller and service account controller
