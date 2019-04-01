@@ -9,6 +9,12 @@
 * And makes changes attempting to move the current status towards the desired state
 * Examples replication controller, endpoints controller, namespace controller and service account controller
 
+# Scheduler
+
+* Responsible for assigning pod to a node
+* Takes care of hardware/software constraints
+* Poliy rich, topology aware, workload specific
+
 # Kubelet
 
 * Agent that runs on each node
