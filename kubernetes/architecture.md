@@ -8,3 +8,8 @@
 * K8 controller watches the state of the cluster via api server
 * And makes changes attempting to move the current status towards the desired state
 * Examples replication controller, endpoints controller, namespace controller and service account controller
+
+# Kubelet
+
+* Agent that runs on each node
+* Kubelet takes set of PodSpecs and ensures that the containers described in the PodSpec are running and healthy
