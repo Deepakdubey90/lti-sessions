@@ -31,3 +31,9 @@
 * Combination of virtual network interfaces, bridges and routing rules is usually called as overlay network
 * All hosts has a TUN virtual network kernel interface
 * Subnet to host mapping is saved in the etcd
+
+# cAdvisor
+
+* An open source container resource usage and performance analysis agent
+* cAdvisor is integrated into the Kubelet binary
+* Collects CPU, memory, filesystem, and network usage statistics
