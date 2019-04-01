@@ -25,3 +25,9 @@
 
 * Runs on each node
 * Responsible for maintaining network rules and performing connection forwarding
+
+# Overlay Network
+
+* Combination of virtual network interfaces, bridges and routing rules is usually called as overlay network
+* All hosts has a TUN virtual network kernel interface
+* Subnet to host mapping is saved in the etcd
